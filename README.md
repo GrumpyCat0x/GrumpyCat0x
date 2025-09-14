@@ -7,9 +7,6 @@
 <p>&emsp;&emsp;Hi, nice to meet you! I'm William. I enjoy programming, photography, FPS game, and traveling.</p>
 <p>&emsp;&emsp;I’m passionate about the IT industry(especially game industry), and I aspire to become an excellent developer.</p>
 
-  <div>&nbsp;</div>
----
-
 
 ### 🏢 Work Experience
 
